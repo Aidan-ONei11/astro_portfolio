@@ -18,3 +18,11 @@ h1 {
     margin: 1rem;
     font-size: 2.5rem
 }
+
+
+/* Footer */
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
