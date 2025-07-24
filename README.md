@@ -59,3 +59,6 @@ Scripts that are in the top fontmatter part of the page are used for static cont
 
 **Client Side for interactivity**
 Using a script tag at the bottom of the page is where you import scripts that are run client side by the browser to add client side interactivity. Sent to the browser when written or imported in between script tags
+
+### Slotting child content inside components
+Use the <slot /> tag to inject content into a layout component
