@@ -51,3 +51,11 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 ## Notes:
 
 Netlify URL: https://oneillwebdev.netlify.app/
+
+### Scripts Placement -- Server side vs Client side 
+
+**Server Side:**
+Scripts that are in the top fontmatter part of the page are used for static content and are run at build time. These do not need to be wrapped in a script tag
+
+**Client Side for interactivity**
+Using a script tag at the bottom of the page is where you import scripts that are run client side by the browser to add client side interactivity. Sent to the browser when written or imported in between script tags
