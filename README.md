@@ -62,3 +62,7 @@ Using a script tag at the bottom of the page is where you import scripts that ar
 
 ### Slotting child content inside components
 Use the <slot /> tag to inject content into a layout component
+
+
+### Keep Components SIMPLE!
+When refactoring code to components, use last part of dot notation
