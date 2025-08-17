@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: How to add a llms.txt file to your Shopify store
 author: Aidan ONeill
 description: "Quick tutorial on how to allow LLMs to access your store for shopping"
